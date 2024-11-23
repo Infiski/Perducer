@@ -1,0 +1,135 @@
+Sequence
+U001 -> N10146 -> skip -> N10048 -> skip -> N10106 -> click -> N10062 -> gen_summ
+U002 -> N10017 -> skip -> N10129 -> gen_summ
+U002 -> N10141 -> gen_summ
+U003 -> N10023 -> gen_summ
+U003 -> N10058 -> skip -> N10140 -> gen_summ
+U003 -> N10056 -> gen_summ
+U004 -> N10095 -> skip -> N10161 -> click -> N10157 -> gen_summ
+U004 -> N10092 -> gen_summ
+U005 -> N10035 -> skip -> N10106 -> skip -> N10159 -> gen_summ
+U006 -> N10059 -> skip -> N10096 -> gen_summ
+U006 -> N10098 -> gen_summ
+U007 -> N10011 -> click -> N10186 -> gen_summ
+U007 -> N10125 -> click -> N10090 -> gen_summ
+U007 -> N10029 -> click -> N10020 -> gen_summ
+U007 -> N10038 -> click -> N10181 -> skip -> N10189 -> gen_summ
+U008 -> N10012 -> gen_summ
+U008 -> N10078 -> click -> N10015 -> gen_summ
+U008 -> N10060 -> gen_summ
+U008 -> N10173 -> click -> N10017 -> gen_summ
+U008 -> N10183 -> gen_summ
+U009 -> N10019 -> gen_summ
+U009 -> N10068 -> gen_summ
+U009 -> N10142 -> gen_summ
+U009 -> N10173 -> skip -> N10124 -> gen_summ
+U009 -> N10024 -> gen_summ
+U009 -> N10123 -> click -> N10001 -> gen_summ
+U010 -> N10082 -> skip -> N10197 -> click -> N10174 -> gen_summ
+U010 -> N10109 -> click -> N10096 -> click -> N10171 -> gen_summ
+U010 -> N10168 -> skip -> N10184 -> gen_summ
+U011 -> N10006 -> skip -> N10166 -> click -> N10070 -> skip -> N10001 -> skip -> N10038 -> gen_summ
+U011 -> N10088 -> gen_summ
+U011 -> N10100 -> gen_summ
+U011 -> N10071 -> gen_summ
+U012 -> N10010 -> gen_summ
+U012 -> N10049 -> skip -> N10021 -> gen_summ
+U012 -> N10150 -> gen_summ
+U013 -> N10196 -> click -> N10068 -> click -> N10116 -> gen_summ
+U014 -> N10026 -> click -> N10030 -> click -> N10074 -> gen_summ
+U015 -> N10129 -> skip -> N10123 -> skip -> N10100 -> skip -> N10093 -> click -> N10035 -> gen_summ
+U016 -> N10189 -> click -> N10182 -> skip -> N10094 -> gen_summ
+U016 -> N10048 -> skip -> N10183 -> gen_summ
+U016 -> N10150 -> gen_summ
+U017 -> N10174 -> gen_summ
+U017 -> N10149 -> gen_summ
+U017 -> N10044 -> gen_summ
+U017 -> N10015 -> gen_summ
+U017 -> N10005 -> gen_summ
+U017 -> N10059 -> gen_summ
+U018 -> N10148 -> click -> N10123 -> click -> N10149 -> click -> N10135 -> gen_summ
+U018 -> N10070 -> gen_summ
+U018 -> N10048 -> gen_summ
+U019 -> N10094 -> click -> N10195 -> skip -> N10071 -> click -> N10004 -> skip -> N10067 -> click -> N10043 -> gen_summ
+U019 -> N10114 -> click -> N10148 -> click -> N10003 -> gen_summ
+U020 -> N10030 -> gen_summ
+U020 -> N10123 -> skip -> N10097 -> gen_summ
+U021 -> N10075 -> click -> N10056 -> click -> N10062 -> click -> N10130 -> skip -> N10035 -> click -> N10155 -> skip -> N10026 -> click -> N10121 -> skip -> N10141 -> gen_summ
+U021 -> N10010 -> gen_summ
+U022 -> N10094 -> skip -> N10108 -> skip -> N10188 -> click -> N10047 -> gen_summ
+U022 -> N10144 -> click -> N10078 -> skip -> N10051 -> click -> N10042 -> click -> N10087 -> gen_summ
+U023 -> N10082 -> click -> N10076 -> skip -> N10069 -> gen_summ
+U023 -> N10103 -> skip -> N10153 -> skip -> N10140 -> skip -> N10139 -> click -> N10115 -> skip -> N10102 -> skip -> N10081 -> gen_summ
+U024 -> N10149 -> skip -> N10097 -> click -> N10187 -> gen_summ
+U024 -> N10012 -> gen_summ
+U024 -> N10181 -> skip -> N10106 -> gen_summ
+U024 -> N10198 -> click -> N10035 -> gen_summ
+U025 -> N10012 -> click -> N10022 -> gen_summ
+U025 -> N10166 -> gen_summ
+U025 -> N10182 -> click -> N10092 -> skip -> N10169 -> gen_summ
+U025 -> N10027 -> skip -> N10147 -> skip -> N10150 -> skip -> N10144 -> gen_summ
+U026 -> N10125 -> click -> N10102 -> skip -> N10157 -> skip -> N10132 -> gen_summ
+U027 -> N10013 -> gen_summ
+U027 -> N10186 -> click -> N10124 -> gen_summ
+U027 -> N10103 -> skip -> N10102 -> click -> N10081 -> click -> N10172 -> gen_summ
+U028 -> N10031 -> gen_summ
+U028 -> N10122 -> click -> N10002 -> click -> N10139 -> skip -> N10072 -> skip -> N10120 -> skip -> N10150 -> gen_summ
+U028 -> N10129 -> skip -> N10083 -> gen_summ
+U029 -> N10101 -> click -> N10163 -> click -> N10102 -> click -> N10078 -> skip -> N10052 -> skip -> N10191 -> click -> N10091 -> gen_summ
+U029 -> N10098 -> click -> N10130 -> gen_summ
+U030 -> N10022 -> gen_summ
+U030 -> N10108 -> click -> N10063 -> click -> N10071 -> skip -> N10061 -> click -> N10180 -> gen_summ
+U031 -> N10156 -> click -> N10037 -> click -> N10091 -> gen_summ
+U031 -> N10146 -> gen_summ
+U032 -> N10199 -> skip -> N10096 -> skip -> N10195 -> click -> N10035 -> skip -> N10193 -> skip -> N10041 -> click -> N10025 -> gen_summ
+U033 -> N10110 -> skip -> N10166 -> click -> N10121 -> gen_summ
+U033 -> N10161 -> gen_summ
+U034 -> N10143 -> click -> N10199 -> skip -> N10042 -> gen_summ
+U034 -> N10136 -> click -> N10106 -> gen_summ
+U034 -> N10006 -> gen_summ
+U034 -> N10001 -> skip -> N10133 -> skip -> N10110 -> gen_summ
+U035 -> N10077 -> gen_summ
+U035 -> N10032 -> gen_summ
+U035 -> N10026 -> gen_summ
+U036 -> N10142 -> gen_summ
+U036 -> N10043 -> gen_summ
+U036 -> N10131 -> skip -> N10104 -> skip -> N10031 -> gen_summ
+U037 -> N10190 -> gen_summ
+U037 -> N10023 -> click -> N10109 -> gen_summ
+U037 -> N10060 -> gen_summ
+U038 -> N10197 -> skip -> N10164 -> skip -> N10151 -> click -> N10100 -> gen_summ
+U038 -> N10020 -> gen_summ
+U038 -> N10135 -> click -> N10177 -> skip -> N10185 -> gen_summ
+U038 -> N10091 -> gen_summ
+U039 -> N10107 -> click -> N10074 -> gen_summ
+U039 -> N10143 -> gen_summ
+U039 -> N10006 -> gen_summ
+U039 -> N10047 -> click -> N10168 -> click -> N10040 -> gen_summ
+U039 -> N10102 -> click -> N10145 -> gen_summ
+U040 -> N10181 -> click -> N10152 -> skip -> N10006 -> click -> N10075 -> click -> N10176 -> gen_summ
+U041 -> N10105 -> click -> N10119 -> click -> N10014 -> gen_summ
+U041 -> N10099 -> gen_summ
+U042 -> N10099 -> gen_summ
+U042 -> N10177 -> click -> N10128 -> click -> N10037 -> gen_summ
+U042 -> N10107 -> skip -> N10041 -> gen_summ
+U042 -> N10112 -> skip -> N10089 -> click -> N10001 -> gen_summ
+U043 -> N10006 -> click -> N10195 -> gen_summ
+U043 -> N10008 -> click -> N10029 -> gen_summ
+U043 -> N10042 -> skip -> N10164 -> click -> N10071 -> skip -> N10015 -> gen_summ
+U043 -> N10097 -> gen_summ
+U043 -> N10067 -> gen_summ
+U044 -> N10047 -> skip -> N10106 -> click -> N10034 -> skip -> N10052 -> gen_summ
+U045 -> N10165 -> skip -> N10185 -> gen_summ
+U045 -> N10028 -> gen_summ
+U046 -> N10109 -> click -> N10164 -> click -> N10038 -> skip -> N10085 -> gen_summ
+U046 -> N10172 -> gen_summ
+U046 -> N10015 -> gen_summ
+U046 -> N10117 -> skip -> N10166 -> gen_summ
+U047 -> N10028 -> click -> N10053 -> click -> N10179 -> click -> N10047 -> skip -> N10125 -> skip -> N10064 -> skip -> N10151 -> gen_summ
+U048 -> N10069 -> click -> N10170 -> gen_summ
+U048 -> N10101 -> click -> N10060 -> skip -> N10195 -> skip -> N10080 -> skip -> N10053 -> click -> N10149 -> gen_summ
+U048 -> N10137 -> skip -> N10190 -> gen_summ
+U049 -> N10052 -> click -> N10098 -> gen_summ
+U049 -> N10063 -> skip -> N10037 -> skip -> N10034 -> gen_summ
+U050 -> N10035 -> click -> N10052 -> click -> N10158 -> click -> N10159 -> skip -> N10022 -> skip -> N10037 -> gen_summ
+U050 -> N10017 -> gen_summ

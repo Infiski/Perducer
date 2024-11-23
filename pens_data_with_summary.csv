@@ -1,0 +1,51 @@
+User ID,News ID's,Actions,Summary ID,Summary Content
+U001,"N10146,N10048,N10106,N10062","skip,skip,click,gen_summ",SUMM0001,Working For The Weekend: Entertainment Best Bets
+U002,"N10017,N10129,N10141","skip,gen_summ,gen_summ",SUMM0002,"The Latest: Spieth, caddie find rake trouble on No. 2"
+U003,"N10023,N10058,N10140,N10056","gen_summ,skip,gen_summ,gen_summ",SUMM0003,"With Luka Samanic, the Spurs get fit without sacrificing potential"
+U004,"N10095,N10161,N10157,N10092","skip,click,gen_summ,gen_summ",SUMM0004,Links: We haven't even reached the halfway point yet
+U005,"N10035,N10106,N10159","skip,skip,gen_summ",SUMM0005,"We will leave EU by Oct. 31, Johnson vows in pitch to be UK PM"
+U006,"N10059,N10096,N10098","skip,gen_summ,gen_summ",SUMM0006,Aron Baynes Highlights 2018/19 NBA Regular Season
+U007,"N10011,N10186,N10125,N10090,N10029,N10020,N10038,N10181,N10189","click,gen_summ,click,gen_summ,click,gen_summ,click,skip,gen_summ",SUMM0007,"Radio host apologizes for Andy Reid comments, pulled off air indefinitely"
+U008,"N10012,N10078,N10015,N10060,N10173,N10017,N10183","gen_summ,click,gen_summ,gen_summ,click,gen_summ,gen_summ",SUMM0008,The Last Thing America Needs Is Yet Another Open-Ended War In The Middle East
+U009,"N10019,N10068,N10142,N10173,N10124,N10024,N10123,N10001","gen_summ,gen_summ,gen_summ,skip,gen_summ,gen_summ,click,gen_summ",SUMM0009,Mitch McConnell: DC statehood push is 'full bore socialism'
+U010,"N10082,N10197,N10174,N10109,N10096,N10171,N10168,N10184","skip,click,gen_summ,click,click,gen_summ,skip,gen_summ",SUMM0010,California's Swimming Pools Have Diarrhea-Causing 'Poop Water'
+U011,"N10006,N10166,N10070,N10001,N10038,N10088,N10100,N10071","skip,click,skip,skip,gen_summ,gen_summ,gen_summ,gen_summ",SUMM0011,USF Women's Soccer 2019 Schedule Released
+U012,"N10010,N10049,N10021,N10150","gen_summ,skip,gen_summ,gen_summ",SUMM0012,Forrest Gump (1994) Trailer #1 | Movieclips Classic Trailers
+U013,"N10196,N10068,N10116","click,click,gen_summ",SUMM0013,"College World Series scores: Daily TV schedule, bracket, results for 2019 NCAA baseball tournament"
+U014,"N10026,N10030,N10074","click,click,gen_summ",SUMM0014,10-year-old boy questioned by police after he played with toy money
+U015,"N10129,N10123,N10100,N10093,N10035","skip,skip,skip,click,gen_summ",SUMM0015,Democrat Warren wants $7 billion fund to give grants to minority entrepreneurs
+U016,"N10189,N10182,N10094,N10048,N10183,N10150","click,skip,gen_summ,skip,gen_summ,gen_summ",SUMM0016,Forrest Gump (1994) Trailer #1 | Movieclips Classic Trailers
+U017,"N10174,N10149,N10044,N10015,N10005,N10059","gen_summ,gen_summ,gen_summ,gen_summ,gen_summ,gen_summ",SUMM0017,"Trevor Lawrence says he would ""never"" sit out a bowl game"
+U018,"N10148,N10123,N10149,N10135,N10070,N10048","click,click,click,gen_summ,gen_summ,gen_summ",SUMM0018,Astros insider: Stuck in a frustrating rut
+U019,"N10094,N10195,N10071,N10004,N10067,N10043,N10114,N10148,N10003","click,skip,click,skip,click,gen_summ,click,click,gen_summ",SUMM0019,Meghan McCain blames 'liberal media' and 'third-wave feminism' after getting heat over husband's Kamala Harris T-shirts
+U020,"N10030,N10123,N10097","gen_summ,skip,gen_summ",SUMM0020,Rookie Tifft transitioning to racing in NASCAR's premier series
+U021,"N10075,N10056,N10062,N10130,N10035,N10155,N10026,N10121,N10141,N10010","click,click,click,skip,click,skip,click,skip,gen_summ,gen_summ",SUMM0021,"Top Analyst Upgrades and Downgrades: American Eagle, Atlassian, Match, NextEra, Nordstom, Office Depot, Roku, Stamps.com, Tanger and More"
+U022,"N10094,N10108,N10188,N10047,N10144,N10078,N10051,N10042,N10087","skip,skip,click,gen_summ,click,skip,click,click,gen_summ",SUMM0022,Red Sox catcher proclaims team 'back' after sweep of Orioles
+U023,"N10082,N10076,N10069,N10103,N10153,N10140,N10139,N10115,N10102,N10081","click,skip,gen_summ,skip,skip,skip,click,skip,skip,gen_summ",SUMM0023,High Point man suffers serious head injuries in four-wheeler crash
+U024,"N10149,N10097,N10187,N10012,N10181,N10106,N10198,N10035","skip,click,gen_summ,gen_summ,skip,gen_summ,click,gen_summ",SUMM0024,Democrat Warren wants $7 billion fund to give grants to minority entrepreneurs
+U025,"N10012,N10022,N10166,N10182,N10092,N10169,N10027,N10147,N10150,N10144","click,gen_summ,gen_summ,click,skip,gen_summ,skip,skip,skip,gen_summ",SUMM0025,Woman Recently Finds Out Her Late Husband of Over 60 Years Was A Spy!
+U026,"N10125,N10102,N10157,N10132","click,skip,skip,gen_summ",SUMM0026,Would you buy this Chevrolet Suburban and RV? We would
+U027,"N10013,N10186,N10124,N10103,N10102,N10081,N10172","gen_summ,click,gen_summ,skip,click,click,gen_summ",SUMM0027,Go to the Phoenix Suns Draft Party!
+U028,"N10031,N10122,N10002,N10139,N10072,N10120,N10150,N10129,N10083","gen_summ,click,click,skip,skip,skip,gen_summ,skip,gen_summ",SUMM0028,"'Beverly Hills, 90210' Stars and Their Families"
+U029,"N10101,N10163,N10102,N10078,N10052,N10191,N10091,N10098,N10130","click,click,click,skip,skip,click,gen_summ,click,gen_summ",SUMM0029,Is Nick Caserio eager to leave Patriots for Texans?
+U030,"N10022,N10108,N10063,N10071,N10061,N10180","gen_summ,click,click,skip,click,gen_summ",SUMM0030,Jack Easterby at center of Patriots' tampering charge against Texans
+U031,"N10156,N10037,N10091,N10146","click,click,gen_summ,gen_summ",SUMM0031,Exclusive: Images show construction on China's third - and largest - aircraft carrier
+U032,"N10199,N10096,N10195,N10035,N10193,N10041,N10025","skip,skip,click,skip,skip,click,gen_summ",SUMM0032,"At Tampa General Hospital, 3-D printers are removing guesswork for doctors and patients"
+U033,"N10110,N10166,N10121,N10161","skip,click,gen_summ,gen_summ",SUMM0033,The 50 Best Places To Retire -- and What It Costs To Live There
+U034,"N10143,N10199,N10042,N10136,N10106,N10006,N10001,N10133,N10110","click,skip,gen_summ,click,gen_summ,gen_summ,skip,skip,gen_summ",SUMM0034,Pop quiz! Kaz Grala surprised with driver's license test
+U035,"N10077,N10032,N10026","gen_summ,gen_summ,gen_summ",SUMM0035,Rockets land in an Iraqi military post home to US personnel
+U036,"N10142,N10043,N10131,N10104,N10031","gen_summ,gen_summ,skip,skip,gen_summ",SUMM0036,16 American commoners who married into royalty
+U037,"N10190,N10023,N10109,N10060","gen_summ,click,gen_summ,gen_summ",SUMM0037,19 things I bought from Amazon to prepare for my deviated septum surgery
+U038,"N10197,N10164,N10151,N10100,N10020,N10135,N10177,N10185,N10091","skip,skip,click,gen_summ,gen_summ,click,skip,gen_summ,gen_summ",SUMM0038,Larry Bird's $2.4M Indy mansion for sale; Naples home off the market
+U039,"N10107,N10074,N10143,N10006,N10047,N10168,N10040,N10102,N10145","click,gen_summ,gen_summ,gen_summ,click,click,gen_summ,click,gen_summ",SUMM0039,Testimony: Suspect Bought Drano After Chinese Scholar Death
+U040,"N10181,N10152,N10006,N10075,N10176","click,skip,click,click,gen_summ",SUMM0040,Joaquin Castro To Laura Ingraham: 'You're A White Supremacist'
+U041,"N10105,N10119,N10014,N10099","click,click,gen_summ,gen_summ",SUMM0041,"She was fired for pulling a gun on a black couple. Now, the ex-campground employee has been arrested"
+U042,"N10099,N10177,N10128,N10037,N10107,N10041,N10112,N10089,N10001","gen_summ,click,click,gen_summ,skip,gen_summ,skip,click,gen_summ",SUMM0042,Mitch McConnell: DC statehood push is 'full bore socialism'
+U043,"N10006,N10195,N10008,N10029,N10042,N10164,N10071,N10015,N10097,N10067","click,gen_summ,click,gen_summ,skip,click,skip,gen_summ,gen_summ,gen_summ",SUMM0043,Recruits warm up to Gophers as program adapts to new rules
+U044,"N10047,N10106,N10034,N10052","skip,click,skip,gen_summ",SUMM0044,Tonto National Forest restrictions ordered due to wildfire risk
+U045,"N10165,N10185,N10028","skip,gen_summ,gen_summ",SUMM0045,Democrats plan to ask Hope Hicks about hush money schemes to silence affair allegations against Trump
+U046,"N10109,N10164,N10038,N10085,N10172,N10015,N10117,N10166","click,click,skip,gen_summ,gen_summ,gen_summ,skip,gen_summ",SUMM0046,A woman had a black horn growing from her thumb for 5 years and doctors had to surgically remove it
+U047,"N10028,N10053,N10179,N10047,N10125,N10064,N10151","click,click,click,skip,skip,skip,gen_summ",SUMM0047,Winners and losers from Raptors' series-clinching Game 6 win
+U048,"N10069,N10170,N10101,N10060,N10195,N10080,N10053,N10149,N10137,N10190","click,gen_summ,click,skip,skip,skip,click,gen_summ,skip,gen_summ",SUMM0048,Ramsey veteran draws on experience for military psychological thriller
+U049,"N10052,N10098,N10063,N10037,N10034","click,gen_summ,skip,skip,gen_summ",SUMM0049,Report: Rams showing interest in supplemental draft prospect Jalen Thompson
+U050,"N10035,N10052,N10158,N10159,N10022,N10037,N10017","click,click,click,skip,skip,gen_summ,gen_summ",SUMM0050,Pete Buttigieg raised staggering $7 million in April alone
